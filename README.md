@@ -1,4 +1,6 @@
-[![github-profile-greeting-animation](hello-im-leander.svg)](https://www.calligrapher.ai/)
+![github-profile-greeting-animation](hello-im-leander.svg)
+
+<!-- animation created with https://www.calligrapher.ai/ + editing the svg's code -->
 
 ## Hi there 👋
 
