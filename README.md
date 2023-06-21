@@ -1,7 +1,8 @@
-### Hi there 👋
+[![github-profile-greeting-animation](hello-im-leander.svg)](https://www.calligrapher.ai/)
 
-<!--
-**lchristmann/lchristmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
+
+<!-- **lchristmann/lchristmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Leander, a full-stack developer.
+
+<!-- inspiration: https://github.com/Mayandev/Mayandev -->
