@@ -24,4 +24,9 @@ Here are some ideas to get you started:
 
 I'm Leander, a full-stack developer.
 
-<!-- inspiration: https://github.com/Mayandev/Mayandev -->
+<!-- inspiration: https://github.com/Mayandev/Mayandev + many many more out there -->
+
+<!-- documentation:
+- https://docs.github.com/de/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+- https://docs.github.com/de/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github#creating-or-editing-your-profile-readme
+-->
