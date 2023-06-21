@@ -1,4 +1,8 @@
-![github-profile-greeting-animation](hello-im-leander.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="hello-im-leander-dark-mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="hello-im-leander-light-mode.svg">
+  <img alt="Shows a animated handwriting of 'Hello, I'm Leander'." src="hello-im-leander-dark-mode.svg">
+</picture>
 
 <!-- animation created with https://www.calligrapher.ai/ + editing the svg's code -->
 
