@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Leander, a full-stack developer.
+I'm Leander, just a dev. :)
 
 <!-- inspiration: https://github.com/Mayandev/Mayandev + many many more out there -->
 
