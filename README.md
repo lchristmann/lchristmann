@@ -6,7 +6,7 @@
 
 <!-- animation created with https://www.calligrapher.ai/ + editing the svg's code -->
 
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!-- **lchristmann/lchristmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Leander, just a dev. :)
+<!-- I'm Leander, just a dev. :) -->
 
 <!-- inspiration: https://github.com/Mayandev/Mayandev + many many more out there -->
 
